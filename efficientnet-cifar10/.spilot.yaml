@@ -1,0 +1,13 @@
+orch_type: job
+
+job_name: yousiki-efficientnet-cifar10
+
+image: yousiki/wecloud:latest
+setup: |
+  pip install --no-cache-dir -r requirements.txt
+
+workdir: /workspace
+
+run: python train.py
+
+profile: python train.py

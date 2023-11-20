@@ -1,0 +1,3 @@
+[submodule "wecloud-cli"]
+	path = wecloud-cli
+	url = https://github.com/wecloudless/wecloud-cli-py.git
