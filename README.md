@@ -27,4 +27,6 @@ Normal training job succeesfully finished.
 
 ![normal](images/NormalJob.png)
 
-ElasticFlow training job submitted but not found in _Jobs_ list. Profiling succeeded.
+ElasticFlow training job succeesfully finished.
+
+![elasticflow](images/ElasticFlowJob.png)
